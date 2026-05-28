@@ -14,3 +14,8 @@
 "    std::cout << laptop.name << \" - \" << laptop.price << \" руб.\" << std::endl;" 
 "    return 0;" 
 "}" 
+"" 
+"// Функционал: учет товаров на складе" 
+"void addToWarehouse(Product p, int quantity) {" 
+"    // Логика добавления на склад" 
+"}" 
