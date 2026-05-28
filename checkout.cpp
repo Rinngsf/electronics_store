@@ -1,0 +1,8 @@
+"class Checkout {" 
+"public:" 
+"    double create_receipt(double items[], int count) {" 
+"        double sum = 0;" 
+"        for(int i = 0; i < count; i++) sum += items[i];" 
+"        return sum;" 
+"    }" 
+"};" 
