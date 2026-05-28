@@ -19,3 +19,4 @@
 "void returnFromWarehouse(Product p, int quantity) {" 
 "    // Логика возврата со склада" 
 "}" 
+"// Функционал: бонусная программа лояльности" 
