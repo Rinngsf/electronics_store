@@ -14,3 +14,8 @@
 "    cout << p.name << \" - \" << p.price << \" руб.\" << endl;" 
 "    return 0;" 
 "}" 
+"" 
+"// Функционал: возврат товаров" 
+"void returnFromWarehouse(Product p, int quantity) {" 
+"    // Логика возврата со склада" 
+"}" 
